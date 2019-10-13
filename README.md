@@ -17,3 +17,11 @@ To compile this code, you hate to install Go language and execute "$ go run cont
 Furthermore, this code reads an inverted file and analytics the query relevance calculating the number of occurrences splitting by the total words in the document.
 
 This work was developed based on Go language documentation.
+
+Archivo Invertido en GO (golang)
+==================================================================================================================================
+Este código crea un archivo invertido a través de la función principal tomando como parámetro el documento a leer y el documento a generar. Para compilar este código, simplemente instale GO en su máquina y ejecute el comando "$ go run count.go"
+
+Además, el código también lee un archivo invertido y analiza la relevancia de una consulta calculando su número de ocurrencias dividido por el número total de palabras en el documento.
+
+Este trabajo fue desarrollado en base a la documentación del lenguaje Go.
